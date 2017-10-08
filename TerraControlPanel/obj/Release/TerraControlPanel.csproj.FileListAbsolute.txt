@@ -1,0 +1,9 @@
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Release\TerraControlPanel.exe.config
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Release\TerraControlPanel.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Release\TerraControlPanel.pdb
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.Form1.resources
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.Form2.resources
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.Properties.Resources.resources
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.csproj.GenerateResource.Cache
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Release\TerraControlPanel.pdb

@@ -1,0 +1,10 @@
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Debug\TerraControlPanel.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.Properties.Resources.resources
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.csproj.GenerateResource.Cache
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Debug\TerraControlPanel.exe
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\bin\Debug\TerraControlPanel.pdb
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.exe
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.pdb
+c:\users\filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.Form1.resources
+C:\Users\Filip\documents\visual studio 2015\Projects\TerraControlPanel\TerraControlPanel\obj\Debug\TerraControlPanel.Form2.resources
